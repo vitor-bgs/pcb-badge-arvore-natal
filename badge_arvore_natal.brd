@@ -69,7 +69,7 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
 </layers>
 <board>
-<fusionteam huburn="a.YnVzaW5lc3M6aG90bWFpbDE5NDU1Nw" projecturn="a.YnVzaW5lc3M6aG90bWFpbDE5NDU1NyNEMjAyMDExMTkzNTQ5OTU5MjY" folderUrn="urn:adsk.wipprod:fs.folder:co.FLNmRr2zTtSTxhxKPpSOYA" urn="urn:adsk.wipprod:dm.lineage:fFKvLAiWSvyl8n8jA8zz8g"  versionUrn="urn:adsk.wipprod:fs.file:vf.fFKvLAiWSvyl8n8jA8zz8g?version=1" camFileUrn="" camFileVersionUrn="" lastpublishedchangeguid="1951fa81-19c1-1b69-1921-ca04b7674535"/>
+<fusionteam huburn="a.YnVzaW5lc3M6aG90bWFpbDE5NDU1Nw" projecturn="a.YnVzaW5lc3M6aG90bWFpbDE5NDU1NyNEMjAyMDExMTkzNTQ5OTU5MjY" folderUrn="urn:adsk.wipprod:fs.folder:co.FLNmRr2zTtSTxhxKPpSOYA" urn="urn:adsk.wipprod:dm.lineage:fFKvLAiWSvyl8n8jA8zz8g"  versionUrn="urn:adsk.wipprod:fs.file:vf.fFKvLAiWSvyl8n8jA8zz8g?version=3" camFileUrn="" camFileVersionUrn="" lastpublishedchangeguid="0142a0f5-e8b9-6e5e-a8e4-50dba8110de6"/>
 <plain>
 <polygon width="0.1" layer="29">
 <vertex x="67.73886875" y="7.85850625"/>

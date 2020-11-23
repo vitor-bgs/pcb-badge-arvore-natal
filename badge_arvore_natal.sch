@@ -72,7 +72,7 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
-<fusionteam huburn="a.YnVzaW5lc3M6aG90bWFpbDE5NDU1Nw" projecturn="a.YnVzaW5lc3M6aG90bWFpbDE5NDU1NyNEMjAyMDExMTkzNTQ5OTU5MjY" folderUrn="urn:adsk.wipprod:fs.folder:co.FLNmRr2zTtSTxhxKPpSOYA" urn="urn:adsk.wipprod:dm.lineage:j3XKslNbTfSdfPCDj4HJSw"  versionUrn="urn:adsk.wipprod:fs.file:vf.j3XKslNbTfSdfPCDj4HJSw?version=1" camFileUrn="" camFileVersionUrn="" lastpublishedchangeguid="fe5fb121-ef50-249e-7c7a-d3b414761584"/>
+<fusionteam huburn="a.YnVzaW5lc3M6aG90bWFpbDE5NDU1Nw" projecturn="a.YnVzaW5lc3M6aG90bWFpbDE5NDU1NyNEMjAyMDExMTkzNTQ5OTU5MjY" folderUrn="urn:adsk.wipprod:fs.folder:co.FLNmRr2zTtSTxhxKPpSOYA" urn="urn:adsk.wipprod:dm.lineage:j3XKslNbTfSdfPCDj4HJSw"  versionUrn="urn:adsk.wipprod:fs.file:vf.j3XKslNbTfSdfPCDj4HJSw?version=3" camFileUrn="" camFileVersionUrn="" lastpublishedchangeguid="b678571b-a08a-81c7-ec30-241745d6a823"/>
 <libraries>
 <library name="wirepad" urn="urn:adsk.eagle:library:412">
 <description>&lt;b&gt;Single Pads&lt;/b&gt;&lt;p&gt;
